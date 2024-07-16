@@ -4,13 +4,13 @@ The dashboard presents several key pieces of information related to Lok Sabha el
 
 Insights:
 
-1. Candidate Distribution
+1. Candidate Distribution:
 The distribution of candidates is uneven. States like Uttar Pradesh (824 candidates), Maharashtra (481 candidates), and Bihar (266 candidates) have a significantly higher number of candidates. This indicates intense electoral competition in these states playing a crucial role in determining election outcomes. Smaller states or Union Territories like Andaman & Nicobar Islands (5 candidates) and Lakshadweep (13 candidates) have fewer candidates, reflecting their smaller electorate, fewer constituencies and less electoral competition.
 
-2. Vote Distribution
+2. Vote Distribution:
 States like West Bengal (2,01,85,370 votes), Maharashtra (1,88,51,193 votes), and Uttar Pradesh (1,02,436 votes) show large vote counts for winning candidates, indicating these states have a high voter turnout and/or large constituencies. The total votes for winning candidates reflect the population size and political engagement in these regions. At the same time, the votes per state per party table highlights the varied performance of parties across different states. For instance, Aam Aadmi Party received a significant number of votes in Punjab (9,81,161). BJP's strong performance is evident with high vote counts in Andhra Pradesh (21,95,927 votes).
 
-4. Party Performance
+4. Party Performance:
 The BJP has the highest number of seats (240), demonstrating its strong electoral performance and widespread support across multiple states. This is followed by the Indian National Congress (99 seats), showing that while it has significant support, it lags behind BJP. Regional parties like the Samajwadi Party (37 seats in Uttar Pradesh), All India Trinamool Congress (29 seats in West Bengal), and Dravida Munnetra Kazhagam (22 seats in Tamil Nadu) have substantial influence in their respective states. This underscores the importance of regional parties in India's political landscape, where local issues and leadership play a crucial role.
 
 Conclusion:
